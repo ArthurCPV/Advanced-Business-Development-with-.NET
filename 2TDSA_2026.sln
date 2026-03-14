@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Sintaxe", "1 - Sintaxe"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxeBasica", "SintaxeBasica\SintaxeBasica.csproj", "{E78B7A99-36B7-44EC-A11C-3CA8A2E116DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{7E5DF9C0-5EB5-4BB9-81F9-1295B9CBD2C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E78B7A99-36B7-44EC-A11C-3CA8A2E116DB} = {8DA555C3-A051-43F9-B44F-E9025C94ABE7}
+		{7E5DF9C0-5EB5-4BB9-81F9-1295B9CBD2C9} = {8DA555C3-A051-43F9-B44F-E9025C94ABE7}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E78B7A99-36B7-44EC-A11C-3CA8A2E116DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E78B7A99-36B7-44EC-A11C-3CA8A2E116DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E78B7A99-36B7-44EC-A11C-3CA8A2E116DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E78B7A99-36B7-44EC-A11C-3CA8A2E116DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5DF9C0-5EB5-4BB9-81F9-1295B9CBD2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5DF9C0-5EB5-4BB9-81F9-1295B9CBD2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5DF9C0-5EB5-4BB9-81F9-1295B9CBD2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5DF9C0-5EB5-4BB9-81F9-1295B9CBD2C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
